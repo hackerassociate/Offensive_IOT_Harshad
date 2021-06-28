@@ -42,7 +42,8 @@ bash OFFS_IOT_harsh.sh
 
 
 
-Follow the link for more information:
+
+## Follow the link for more information:
 
 [Hacker Associate Web Portal](https://www.hackerassociate.com)
 
