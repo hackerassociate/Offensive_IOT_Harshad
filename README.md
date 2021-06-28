@@ -1,5 +1,4 @@
-# Welcome to Hacker Associate Offensive IOT Penetration Testing Certification Program.
-#### Offensive_IOT_Harshad
+## Welcome to Hacker Associate Offensive IOT Penetration Testing Certification Program.
 
 **Offensive IOT Machine Configuration Script by Harshad Shah**
 
