@@ -33,7 +33,7 @@ ls
 
 **Step-5: Permission**
 
-chmod +x OFFS_IOT_harsh.sh
+sudo chmod +x OFFS_IOT_harsh.sh
 
 
 **Step-6: Execute the Script**
