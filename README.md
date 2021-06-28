@@ -9,6 +9,9 @@ I have written the script for Debain based system like (Ubuntu, Kali Linux, Rasp
 
 
 Thanks & Regards
+
 Harshad Shah
+
 Hacker Associate 
+
 www.hackerassociate.com 
