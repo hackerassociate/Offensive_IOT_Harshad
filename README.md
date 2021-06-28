@@ -31,7 +31,7 @@ git clone https://github.com/hackerassociate/Offensive_IOT_Harshad.git
 ls
 
 
-**Step-5: Permission **
+**Step-5: Permission**
 
 chmod +x OFFS_IOT_harsh.sh
 
