@@ -2,7 +2,7 @@
 
 **Offensive IOT Machine Configuration Script by Harshad Shah**
 
-**Twitter : @harshad_hacker
+#### Twitter : @harshad_hacker
 
 I have written the script for Debain based system like (Ubuntu, Kali Linux, Raspberry Pi etc.)
 
