@@ -4,18 +4,22 @@
 
 echo -e "\n------------------------------------------------------------
 
-							              Offensive IOT by Harshad 
+			    Offensive IOT by Harshad 
                             
                             Starting configuration, wait.........
                             
                             Progess................................
 
               
-			      ------------------------------------------------------------"
+	    ------------------------------------------------------------"
+			      
+echo -e "\n" 
 
 echo -e "\nWelcome to Hacker Associate and  member of Global Offensive Hacker Associate Community."
 
 echo -e "\nWelcome to Offenisve IOT Certification Program and  wait for some time, I am going to set up your Pentesting Distros."
+
+echo -e "\n"; sudo apt install open-vm-tools-desktop open-vm-tools ; echo -e "\n" ; echo "VMWARE Tools Installed by HA-Bots"
 
 echo -e "\n"; sudo ifconfig; sudo apt-get update
 
