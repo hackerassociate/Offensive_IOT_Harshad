@@ -14,6 +14,8 @@ echo -e "\n---------------------------------------------------------------------
 			      
 echo -e "\n" 
 
+echo -e "\n"; sudo apt-get install python-pip nmap ; sudo pip install python-nmap;  echo -e "\n" ;
+
 echo -e "\nWelcome to Hacker Associate and  member of Global Offensive Hacker Associate Community."
 
 echo -e "\nWelcome to Offenisve IOT Certification Program and  wait for some time, I am going to set up your Pentesting Distros."
